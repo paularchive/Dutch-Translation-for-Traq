@@ -95,7 +95,7 @@ class nlNL extends \traq\libraries\Locale
             'is_not'           => "is niet",
             'contains'         => "bevat",
             'does_not_contain' => "bevat geen",
-            'subscribe'        => "Aboneer",
+            'subscribe'        => "Abonneer",
             'unsubscribe'      => "Uitschrijven",
             'for'              => "Voor",
             'search'           => "Zoek",
